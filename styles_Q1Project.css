@@ -1,0 +1,108 @@
+body{
+	
+	background-size:cover;
+	background-repeat:repeat;
+	background-image:url(https://i.pinimg.com/originals/2e/a4/53/2ea453d3bfc49621c700ff0b2620e10c.gif);
+
+}
+
+#Intro-box{
+	background-image:url(https://i.pinimg.com/736x/ca/82/db/ca82db28ce19274a206f0a80c4c19a26.jpg);
+	padding:10px;
+	width:95%;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow: 0 6px 12px rgba(63, 13, 18);
+	color:#F4FFF8;
+	border-radius:40px;
+	font-family:rockwell;
+	text-align:center;
+	font-size:17px;
+
+}
+
+#Sources-box{
+	background-image:url(https://i.pinimg.com/736x/ca/82/db/ca82db28ce19274a206f0a80c4c19a26.jpg);
+	padding:10px;
+	width:40%;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow: 0 6px 12px rgba(63, 13, 18);
+	color:#F4FFF8;
+	border-radius:40px;
+	font-family:rockwell;
+	text-align:center;
+	font-size:17px;
+
+}
+
+
+#About-box{
+	background-image:url(https://i.pinimg.com/736x/4d/2a/85/4d2a85f21acb89c1a63586d07e065949.jpg);
+	padding:50px;
+	width:65%;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow: 0 6px 12px rgba(63, 13, 18);
+	color:#F4FFF8;
+	border-radius:40px;
+	font-family:rockwell;
+	text-align:left;
+
+
+}
+
+#Works-box{
+	background-image:url(https://i.pinimg.com/736x/71/1b/6d/711b6d5930cfc9ed9dea8e3f9e40dc4b.jpg);
+	padding:60px;
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow: 0 6px 12px rgba(63, 13, 18);
+	color:#F4FFF8;
+	border-radius:40px;
+	font-family:rockwell;
+	text-align:left;
+
+}
+#Contacts-form{
+	background-image:url(https://i.pinimg.com/736x/5c/40/98/5c409826200fdd7803b5112af2c940bf.jpg);
+	padding:60px;
+	width:65%;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow: 0 6px 12px rgba(63, 13, 18);
+	color:#CE4760;
+	border-radius:40px;
+	font-family:rockwell;
+	text-align:left;
+	
+
+
+input[type="text"], input[type="Username"]{
+	border-radius:10px;
+	font-size:15px;
+	width:100%;
+	text-align:center;
+	background-color: rgba(244, 255, 248, 0.9);
+
+}
+
+input[type="email"], input[type="Email"]{
+	border-radius:10px;
+	font-size:15px;
+	width:100%;
+	text-align:center;
+	background-color: rgba(244, 255, 248, 0.9);
+
+}
+
+.footer{
+	position:bottom;
+	left:0;
+	bottom:0;
+	width:100%;
+	background-image:url(https://i.pinimg.com/736x/ca/82/db/ca82db28ce19274a206f0a80c4c19a26.jpg);
+	text-align:center;
+
+}
